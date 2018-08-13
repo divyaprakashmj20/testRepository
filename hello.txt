@@ -2,4 +2,7 @@ Hello world
 
 Next Line
 
+
 another line from local
+
+another line from cloud
